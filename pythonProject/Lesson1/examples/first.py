@@ -1,0 +1,5 @@
+print("Hello, world!")
+name = input("введіть своє ім'я, будь ласка: ")
+print("Привіт, ", name, "!")
+print(f"Привіт, {name}!")
+print("Привіт, ", name, "!", sep='*')
